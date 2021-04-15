@@ -12,61 +12,61 @@ Using a GRU netwrok and a long list of names I was able to train a model to pred
 (I used collage names as the training data)
 
 Names generated after epoch 0:
-   a.
-  txrzysslnzyfhytek.
-  itqzegpewy.
+  *  a.
+  * txrzysslnzyfhytek.
+  * itqzegpewy.
 
 Names generated after epoch 25:
-  xaldpia college.
-  liride university.
-  .
+  * xaldpia college.
+  * liride university.
+  * .
 
 Names generated after epoch 50:
-  zazrof catemy cellege.
-  nalifotu university.
-  heverdie college.
+  * zazrof catemy cellege.
+  * nalifotu university.
+  * heverdie college.
 
 Names generated after epoch 75:
-  georgia state college of tadierrystof oramorama.
-  zoreda pareer collegevaltor.
-  radto haubis theolonods college.
+  * georgia state college of tadierrystof oramorama.
+  * zoreda pareer collegevaltor.
+  * radto haubis theolonods college.
 
 Names generated after epoch 100:
-  onte sphonsis academy.
-  ldwesdon technical college.
-  lake ho muniey cchrenchifeseora.
+  * onte sphonsis academy.
+  * ldwesdon technical college.
+  * lake ho muniey cchrenchifeseora.
 
 Names generated after epoch 125:
-  oathilorican university.
-  ollawine college.
-  rey baybus college inc and feauth mchenwittingu.
+  * oathilorican university.
+  * ollawine college.
+  * rey baybus college inc and feauth mchenwittingu.
 
 Names generated after epoch 150:
-  asion walle college.
-  vendona state university.
-  **university college.**
+  * asion walle college.
+  * vendona state university.
+  * **university college.**
 
 Names generated after epoch 175:
-  atlon stmte universitytackfond vallers.
-  atera hosigtal universityitadveenspunegs.
-  rosimen university.
+  * atlon stmte universitytackfond vallers.
+  * atera hosigtal universityitadveenspunegs.
+  * rosimen university.
 
 Names generated after epoch 200:
-  arkanse forler college.
-  ortheassan state community college.
-  ortane state community college.
+  * arkanse forler college.
+  * ortheassan state community college.
+  * ortane state community college.
 
 Names generated after epoch 225:
-  ckantal tichl college.
-  yle college.
-  olakla merchioo.
+  * ckantal tichl college.
+  * yle college.
+  * olakla merchioo.
 
 Names generated after epoch 250:
-  emflorida state university.
-  acamato university.
-  arvenn university.
+  * emflorida state university.
+  * acamato university.
+  * arvenn university.
 
 Names generated after epoch 275:
-  **radd coast college.**
-  errgreschers pine coluea.
-  illian university.
+  * **radd coast college.**
+  * errgreschers pine coluea.
+  * illian university.
